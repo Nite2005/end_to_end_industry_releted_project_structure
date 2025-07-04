@@ -1,1 +1,1 @@
-## End to End MLproject Industru follow project structure
+## "End-to-End ML Project (Industry-standard project structure)"
